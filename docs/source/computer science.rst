@@ -16,4 +16,4 @@
 모든 코드는 `GNU 공중 사용 허가서 <https://www.gnu.org/licenses/gpl-3.0.html>`_ v3 버전으로 베포됩니다.
 
 
-.. include:: /computer_science/src.algorithm_implementation
+.. include:: /computer_science/src/algorithm_implementation
