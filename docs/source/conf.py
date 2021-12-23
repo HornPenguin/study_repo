@@ -10,6 +10,7 @@ copyright = '2021, Hyun Seong, Kim'
 author = 'Hyun Seong, Kim'
 
 release = '0.0.1'
+version = '0.0.1'
 
 # -- General configuration
 
