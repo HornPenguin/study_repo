@@ -8,3 +8,4 @@
 
    quantum mechanics
    optics and photonics
+   computer science
