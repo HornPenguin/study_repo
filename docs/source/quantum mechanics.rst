@@ -9,7 +9,7 @@
 
 문제 풀이: Sakurai
 =====================
-.. include:: /quanntum_mechanics/QA_Sakurai.rst
+.. include:: /quantum_mechanics/QA_Sakurai.rst
 
 참조 문헌
 ============

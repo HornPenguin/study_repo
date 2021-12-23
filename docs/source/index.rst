@@ -6,5 +6,5 @@
 .. toctree::
    :maxdepth: 2
 
-   quantum quantum_mechanics
+   quantum mechanics
    optics and photonics
