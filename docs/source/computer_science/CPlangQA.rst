@@ -7,12 +7,14 @@ Chapter 1
 
 **Exercise 1-7.** Write a program to print the value of EOF.
 
-.. include:: /computer_science/src/C_exer_1_7.c
-        :code: c
-    
-.. code-block:: console
+    .. include:: /computer_science/src/C_exer_1_7.c
+            :code: c
 
-    $EOF value: -1
+    result of program
+    
+    .. code-block:: console
+
+        $EOF value: -1
     
 
 

@@ -11,7 +11,7 @@
 =====================
 .. include:: /quantum_mechanics/QA_Sakurai.rst
 
-참조 문헌
+참고 문헌
 ============
 
 * Griffith, Introduction to Quantum mechanics, 3rd edition, Cambridge University Press, 2018

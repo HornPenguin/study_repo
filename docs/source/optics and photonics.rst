@@ -38,7 +38,7 @@
 
 
 
-참조 문헌
+참고 문헌
 ==========================
 
 * Saleh and Teich, Fundamentals of Photonics, 3rd edition, Wiley Series in Pure and Applied Optics, Wiley, 2020
