@@ -1,9 +1,10 @@
 #include<stdio.h>
 
-int main(void)
-{
-    
-    printf("EOF value: %d \n", EOF);
-    return 0;
+/*Print EOF value*/
 
+int 
+main(void)
+{ 
+  printf("EOF value: %d \n", EOF);
+  return 0;
 }
