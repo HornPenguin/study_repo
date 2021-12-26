@@ -17,3 +17,13 @@
 
 
 .. include:: /computer_science/algorithm_implementation.rst
+
+
+
+
+The C Programming Language 풀이
+=======================================
+
+Kernighan & Ritchie, The C Programming Language - ANSI C, 2nd edition,  (1988, Prentice-Hall) , ISBN: 0-13-110362-8
+
+.. include:: /computer_science/CPlangQA.rst
