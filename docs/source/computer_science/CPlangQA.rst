@@ -7,7 +7,7 @@ Chapter 1
 
 **Exercise 1-7.** Write a program to print the value of EOF.
 
-    .. include:: /src/test.rst
+    .. include:: /computer_science/src/C_exer_1_7.c
     
     .. code-block:: console
 
